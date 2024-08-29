@@ -2,8 +2,8 @@ import { createContext, useContext, useEffect, useState } from "react";
 import { databases } from "../appwrite";
 import { ID, Query } from "appwrite";
 
-export const IDEAS_DATABASE_ID = "66adfeb50023c740838a"; // Replace with your database ID
-export const IDEAS_COLLECTION_ID = ""; // Replace with your collection ID
+export const IDEAS_DATABASE_ID = "66b249d8002ca6a1b4ea"; // Replace with your database ID
+export const IDEAS_COLLECTION_ID = "66b249d8002ca6a1b4ea"; // Replace with your collection ID
 
 const IdeasContext = createContext();
 
