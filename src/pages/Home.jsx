@@ -44,7 +44,7 @@ export function Home() {
 
         ):(
             <section>
-            <p>Please login to submit an idea.</p>
+            <p>Please Login to Submit an idea.</p>
             </section>
         )}
         <section>
